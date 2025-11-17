@@ -9,3 +9,6 @@ nav:
 
   - me:
     - 关于我: about.md
+theme:
+  name: readthedocs
+  
