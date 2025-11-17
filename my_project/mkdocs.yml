@@ -1,1 +1,11 @@
 site_name: 测试网站
+
+nav:
+  - 首页: index.md
+  - 文档:
+    - C: Tutorial/C.md
+    - Java: Tutorial/Java.md
+    - Python: Tutorial/Python.md
+
+  - me:
+    - 关于我: about.md
